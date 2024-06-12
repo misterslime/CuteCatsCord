@@ -1,8 +1,8 @@
 /**
- * @name Cute Cats Cord
+ * @name Cute Cats Cord (Default Statuses)
  * @author OctolingGrimm & Azathoth
  * @version 1.0.1
- * @description A really cute and pink Discord theme made for the cute people of Meowtopia!
+ * @description A really cute and pink Discord theme made for the cute people of Meowtopia! Now with default status colours.
  * @source https://github.com/misterslime/CuteCatsCord
  * @website https://github.com/misterslime/CuteCatsCord
  * @BDEditor Clear Vision
@@ -60,11 +60,6 @@
   --channel-unread: var(--main-color);
   --channel-color: rgb(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
-  --online-color: #F5A9B8;
-  --idle-color: #FFFFFF;
-  --dnd-color: #5BCEFA;
-  --streaming-color: #593695;
-  --offline-color: #808080;
   --main-font: Pangolin;
   --code-font: Tiny5;
   --channels-width: 220px;
