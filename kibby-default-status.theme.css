@@ -9,7 +9,7 @@
 */
 
 @import url('https://fonts.googleapis.com/css2?family=Pangolin:wght@100;300;400;500;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Tiny5:wght@100;300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Consolas:wght@100;300;400;500;700&display=swap');
 @import url('https://clearvision.github.io/ClearVision-v6/main.css');
 @import url('https://nyri4.github.io/Discolored/main.css');
 
@@ -61,7 +61,7 @@
   --channel-color: rgb(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
   --main-font: Pangolin;
-  --code-font: Tiny5;
+  --code-font: Consolas;
   --channels-width: 220px;
   --members-width: 240px;
   --backdrop-overlay: rgba(0,0,0,0.8);
@@ -87,11 +87,6 @@
   --rs-medium-width: 2px;
   --rs-large-width: 2px;
   --rs-avatar-shape: 50%;
-  --rs-online-color: #43b581;
-  --rs-idle-color: #faa61a;
-  --rs-dnd-color: #f04747;
-  --rs-offline-color: #636b75;
-  --rs-streaming-color: #643da7;
   --rs-phone-visible: block;
 }
 
